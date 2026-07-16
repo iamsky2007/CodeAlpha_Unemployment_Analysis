@@ -123,7 +123,16 @@ CodeAlpha_Unemployment_Analysis
 ├── requirements.txt
 └── README.md
 ```
+## How to Run
 
+1. Clone the repository
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run the project
+
+python main.py
 ---
 
 ## Author
