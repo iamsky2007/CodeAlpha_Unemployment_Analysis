@@ -46,6 +46,9 @@ The project uses two unemployment datasets containing information about:
 - Insight Extraction
 
 ---
+## COVID-19 Impact
+
+The analysis shows a noticeable increase in unemployment rates during 2020, reflecting the economic impact of the COVID-19 pandemic across different regions.
 
 ## Visualizations
 
