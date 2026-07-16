@@ -28,20 +28,22 @@ The project uses two unemployment datasets containing information about:
 - NumPy
 - Matplotlib
 - Seaborn
+- Jupyter/VS Code
+- OpenPyXL (for Excel datasets)
 
 ---
 
 ## Project Workflow
 
 - Data Loading
-- Data Cleaning
-- Handling Missing Values
-- Removing Duplicates
-- Date Conversion
+- Data Cleaning & Preprocessing
+- Missing Value Handling
+- Duplicate Removal
+- Date Formatting
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Statistical Analysis
-- Insight Generation
+- Insight Extraction
 
 ---
 
@@ -92,6 +94,12 @@ The project uses two unemployment datasets containing information about:
 - Lowest recorded unemployment rate: **0.00%**
 
 ---
+## Future Improvements
+
+- Interactive dashboards using Plotly
+- Time-series forecasting
+- Regional unemployment comparison
+- Machine learning-based unemployment prediction
 
 ## Project Structure
 
@@ -122,3 +130,6 @@ CodeAlpha_Unemployment_Analysis
 Computer Engineering Student
 
 CodeAlpha Data Science Intern
+
+GitHub:
+https://github.com/iamsky2007
